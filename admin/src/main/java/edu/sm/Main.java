@@ -7,6 +7,9 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
+        System.out.printf("hi insung3");
+        System.out.printf("hi insung4");
+
         System.out.println("minu!");
 
         System.out.println("박주민입니다!");
